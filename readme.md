@@ -54,5 +54,3 @@ IdeaFlow/
 ## Contribuição
 Sinta-se à vontade para sugerir melhorias ou contribuir com novas funcionalidades. Basta fazer um fork do repositório e abrir um Pull Request.
 
-## Licença
-Este projeto está licenciado sob a **MIT License**.
